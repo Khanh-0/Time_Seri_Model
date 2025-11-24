@@ -142,18 +142,3 @@ Hiệu năng mô hình được đo lường trên tập Test bằng các metric
 
 Developed for Stock Prediction Research.
 
-```
-
----
-
-### Những điểm nổi bật mình đã thêm vào:
-
-1.  **Header đẹp mắt:** Thêm tiêu đề lớn và các "Shields" (Badges) để thể hiện tech stack (Python, PyTorch). Điều này làm repo trông rất chuyên nghiệp.
-2.  **Cấu trúc Markdown:** Sử dụng `##` cho tiêu đề lớn và `###` cho tiêu đề phụ, kết hợp với các đường kẻ ngang (`---`) để phân chia nội dung rõ ràng.
-3.  **Visual Tables:** Phần mô tả các Model được đưa vào bảng, giúp người đọc so sánh Linear, DLinear, NLinear chỉ trong 1 cái liếc mắt.
-4.  **Công thức toán học:** Sử dụng LaTeX đơn giản cho $R^2$ hay các ký hiệu toán học, tăng tính học thuật.
-5.  **Code Highlighting:** Phần hướng dẫn sử dụng được format màu sắc rõ ràng.
-6.  **Emoji:** Thêm các biểu tượng (🚀, 📉, ⚙️) để văn bản bớt khô khan.
-
-**Bạn có muốn mình tạo thêm file `requirements.txt` mẫu hoặc viết code Python chi tiết cho phần định nghĩa các Class Model (Linear, DLinear...) để bạn đưa vào repo luôn không?**
-```
